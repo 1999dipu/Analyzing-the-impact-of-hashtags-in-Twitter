@@ -16,3 +16,5 @@ This tool encounters 23000+ tweeets and retweets to analyse 1 hashtag so that th
 * Estimating potential (expected) reach of the trend
 * Computing the actual reach of the hashtag
 * Generating ego-centric network of most influential user and analyzing the diffusion of its reach
+
+Research paper: http://www.ijpe-online.com/EN/10.23940/ijpe.20.08.p1.11391150
